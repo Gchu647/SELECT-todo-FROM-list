@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS todo_app CASCADE;
+
+DROP USER IF EXISTS michael;
+
